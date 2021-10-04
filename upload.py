@@ -34,7 +34,7 @@ client = Client(
     api_id=api_id,
     api_hash=api_hash
 )
-chat_id = os.environ.get("chat_id", int(-578685820))
+chat_id = os.environ.get("chat_id", int(598943028))
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = [
